@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "115377185776",
+    "firebase_url": "https://smart-mirror-4f0dd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-mirror-4f0dd",
+    "storage_bucket": "smart-mirror-4f0dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115377185776:android:ef2d159c6a400861c4b335",
+        "android_client_info": {
+          "package_name": "com.example.led_color_picker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgIPGxmkOqnsPX-3r4jnpY6o082KkCEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
