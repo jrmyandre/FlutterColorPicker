@@ -19,9 +19,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
       ),
       home: const ColorPickerPage(),
     );
@@ -85,7 +84,7 @@ class _ColorPickerPageState extends State<ColorPickerPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Smart Home"),
+        title: const Text("Mirafy"),
       ),
       backgroundColor: Colors.white,
       body: Center(
